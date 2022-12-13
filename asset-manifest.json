@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ec058271.css",
+    "main.js": "/react-gh-pages/static/js/main.68d1fa36.js",
+    "static/js/787.126d01c9.chunk.js": "/react-gh-pages/static/js/787.126d01c9.chunk.js",
+    "static/media/me.jpeg": "/react-gh-pages/static/media/me.9b4012125c798cb4c4dd.jpeg",
+    "static/media/heatmap-one.png": "/react-gh-pages/static/media/heatmap-one.1026f36285158cf0a7d0.png",
+    "static/media/figma-one.png": "/react-gh-pages/static/media/figma-one.e91570b6a026d7626db8.png",
+    "static/media/first-wire.png": "/react-gh-pages/static/media/first-wire.02069164dd7bec8a8220.png",
+    "static/media/PersonaOne.jpg": "/react-gh-pages/static/media/PersonaOne.f7d879e351f083150455.jpg",
+    "static/media/Persona part 2.jpg": "/react-gh-pages/static/media/Persona part 2.3b9801822e3443c9a54c.jpg",
+    "static/media/heatmap-two.png": "/react-gh-pages/static/media/heatmap-two.8db1a59f5a0c7f166c82.png",
+    "static/media/test.png": "/react-gh-pages/static/media/test.4161119f37f988017a86.png",
+    "static/media/kara.png": "/react-gh-pages/static/media/kara.fca14def90b7526947fc.png",
+    "static/media/Storyboard.jpg": "/react-gh-pages/static/media/Storyboard.f75ab0e7e8b25e853356.jpg",
+    "static/media/figma-two.png": "/react-gh-pages/static/media/figma-two.bf8db7c67a8ff4e3d132.png",
+    "static/media/kara_wireframe.png": "/react-gh-pages/static/media/kara_wireframe.b9f485fb5c2b82f32c49.png",
+    "static/media/appt.png": "/react-gh-pages/static/media/appt.c534514d0972c891c09a.png",
+    "static/media/diff_op.png": "/react-gh-pages/static/media/diff_op.05d91f7ecbc8c46bfe18.png",
+    "static/media/washsketch.jpg": "/react-gh-pages/static/media/washsketch.aaa760f976c2d6b40c7c.jpg",
+    "static/media/pers.png": "/react-gh-pages/static/media/pers.696e4bb665c2d87b4722.png",
+    "static/media/fire.png": "/react-gh-pages/static/media/fire.d42bf79077f1d9d06dff.png",
+    "static/media/one.png": "/react-gh-pages/static/media/one.4c2a7bb12c49ef42d40e.png",
+    "static/media/new.png": "/react-gh-pages/static/media/new.137cbb26b96574eb21ef.png",
+    "static/media/logo2.png": "/react-gh-pages/static/media/logo2.a53d4f382ee61ca67dfd.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.ec058271.css.map": "/react-gh-pages/static/css/main.ec058271.css.map",
+    "main.68d1fa36.js.map": "/react-gh-pages/static/js/main.68d1fa36.js.map",
+    "787.126d01c9.chunk.js.map": "/react-gh-pages/static/js/787.126d01c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec058271.css",
+    "static/js/main.68d1fa36.js"
+  ]
+}
